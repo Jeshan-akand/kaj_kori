@@ -37,7 +37,69 @@
 {
 
 "api":"api1_guest",
+{
 
+    "Tool on": true,
+
+    "Delay": 200,
+
+    "My": [
+
+        {
+
+            "api": "api1",
+
+            "aid": "aid1"
+
+        },
+
+        {
+
+            "api": "api2",
+
+            "aid": "aid2"
+
+        },
+
+        {
+
+            "api": "api1",
+
+            "aid": "aid"
+
+        }
+
+    ],
+
+    "guest": [
+
+        {
+
+            "api": "api1_guest",
+
+            "aid": "aid1"
+
+        },
+
+        {
+
+            "api": "api2_guest",
+
+            "aid": "aid2"
+
+        },
+
+        {
+
+            "api": "api1_guest",
+
+            "aid": "aid"
+
+        }
+
+    ]
+
+}
 "aid":"aid1"
 
 },
