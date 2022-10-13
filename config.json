@@ -1,0 +1,1 @@
+{ 	"Delay":200, 	"guest":[ 		{ 			"aid":"aid1", 			"api":"api1_guest" 		}, 		{ 			"aid":"aid2", 			"api":"api2_guest" 		}, 		{ 			"aid":"aid", 			"api":"api1_guest" 		} 	], 	"My":[ 		{ 			"aid":"aid1", 			"api":"api1" 		}, 		{ 			"aid":"aid2", 			"api":"api2" 		}, 		{ 			"aid":"aid", 			"api":"api1" 		} 	], 	"Toolon":true }
