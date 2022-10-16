@@ -1,0 +1,64 @@
+{
+
+    "Delay": 200,
+
+    "Guest": [
+
+        {
+
+            "aid": "Guest_aid_0",
+
+            "api": "Guest_api_0"
+
+        },
+
+        {
+
+            "aid": "Guest_aid_1",
+
+            "api": "Guest_api_1"
+
+        },
+
+        {
+
+            "aid": "Guest_aid_2",
+
+            "api": "Guest_api_2"
+
+        }
+
+    ],
+
+    "My": [
+
+        {
+
+            "aid": "My_aid_0",
+
+            "api": "My_api_0"
+
+        },
+
+        {
+
+            "aid": "My_aid_1",
+
+            "api": "My_api_1"
+
+        },
+
+        {
+
+            "aid": "My_aid_2",
+
+            "api": "My_api_2"
+
+        }
+
+    ],
+
+    "Tool_on":false
+
+}
+
