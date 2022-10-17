@@ -32,29 +32,7 @@
 
     "My": [
 
-        {
-
-            "aid": "My_aid_0",
-
-            "api": "My_api_0"
-
-        },
-
-        {
-
-            "aid": "My_aid_1",
-
-            "api": "My_api_1"
-
-        },
-
-        {
-
-            "aid": "My_aid_2",
-
-            "api": "My_api_2"
-
-        }
+        
 
     ],
 
