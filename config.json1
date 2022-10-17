@@ -18,15 +18,9 @@
 
             "api": "Guest_api_1"
 
-        },
-
-        {
-
-            "aid": "Guest_aid_2",
-
-            "api": "Guest_api_2"
-
         }
+
+       
 
     ],
 
@@ -36,7 +30,7 @@
 
     ],
 
-    "Tool_on":true
+    "Tool_on":false
 
 }
 
