@@ -1,1 +1,1 @@
-{ 	"Delay":200, 	"Guest":[ 		{ 			"aid":"133918", 			"api":"858585" 		}, 		{ 			"aid":"992462", 			"api":"858585" 		} 	], 	"My":[ 		{ 			"aid":"My_aid_0", 			"api":"My_api_0" 		}, 		{ 			"aid":"My_aid_1", 			"api":"My_api_1" 		}, 		{ 			"aid":"My_aid_2", 			"api":"My_api_2" 		} 	], 	"Tool_on":false }
+{ 	"Delay":200, 	"Guest":[ 		{ 			"aid":"133918", 			"api":"858585" 		}, 		{ 			"aid":"992462", 			"api":"858585" 		} 	], 	"My":[ 			], 	"Tool_on":false }
