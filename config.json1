@@ -1,24 +1,8 @@
 {
 
-    "Delay": 200,
+    "version": 200
 
-    "Guest": [
 
-        
-
-       
-
-       
-
-    ],
-
-    "My": [
-
-        
-
-    ],
-
-    "Tool_on":true
 
 }
 
